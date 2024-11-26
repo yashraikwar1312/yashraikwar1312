@@ -29,6 +29,32 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## Legal Disclaimer
+
+### Disclaimer of Liability
+I, Yash, am not responsible for any consequences arising from the use of my GitHub account or any repositories within. The content and code in my repositories are provided "as is" without any guarantees or warranties. By accessing and using my repositories, you agree to these terms.
+
+### Unauthorized Use
+Any unauthorized use of my repositories without my explicit permission will result in legal consequences. This includes but is not limited to:
+- Reproduction or distribution of the code without proper attribution.
+- Use of the code for malicious purposes.
+
+### Relevant IPC Sections
+- **Section 403**: Dishonest misappropriation of property. [Link](https://en.wikipedia.org/wiki/Indian_Penal_Code#Section_403)
+- **Section 415**: Cheating. [Link](https://en.wikipedia.org/wiki/Indian_Penal_Code#Section_415)
+- **Section 420**: Cheating and dishonestly inducing delivery of property. [Link](https://en.wikipedia.org/wiki/Indian_Penal_Code#Section_420)
+
+By accessing and using my repositories, you acknowledge and agree to comply with these terms.
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/Yashraikwar1312"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/Yashraikwar1312" /></a></p><br><br>
