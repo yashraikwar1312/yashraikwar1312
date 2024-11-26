@@ -29,6 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
 ## Legal Disclaimer
 
 ### Disclaimer of Liability
@@ -40,9 +41,9 @@ Any unauthorized use of my repositories without my explicit permission will resu
 - Use of the code for malicious purposes.
 
 ### Relevant IPC Sections
-- **Section 403**: Dishonest misappropriation of property. [Link](https://en.wikipedia.org/wiki/Indian_Penal_Code#Section_403)
-- **Section 415**: Cheating. [Link](https://en.wikipedia.org/wiki/Indian_Penal_Code#Section_415)
-- **Section 420**: Cheating and dishonestly inducing delivery of property. [Link](https://en.wikipedia.org/wiki/Indian_Penal_Code#Section_420)
+- **Section 403**: Dishonest misappropriation of property. [Link](https://indiankanoon.org/doc/1591527/)
+- **Section 415**: Cheating. [Link](https://www.indiacode.nic.in/show-data?actid=AC_CEN_5_23_00037_186045_1523266765688&sectionId=46198&sectionno=415&orderno=472)
+- **Section 420**: Cheating and dishonestly inducing delivery of property. [Link](https://indiankanoon.org/doc/1436241/)
 
 By accessing and using my repositories, you acknowledge and agree to comply with these terms.
 
