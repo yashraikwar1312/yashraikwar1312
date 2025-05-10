@@ -63,3 +63,4 @@ By accessing and using my repositories, you acknowledge and agree to comply with
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashraikwar1312&show_icons=true&locale=en" alt="yashraikwar1312" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraikwar1312&" alt="yashraikwar1312" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yashraikwar1312)](https://git.io/streak-stats)
